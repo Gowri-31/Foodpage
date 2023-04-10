@@ -1,0 +1,19 @@
+
+pre{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-size: 20px;
+}
+a{
+    
+    padding: 6px;
+    padding-left: 50px;
+}
+img{
+    height: 150px;
+    width: 150px;
+}
+h3{
+    color: red;
+    font-size: 30px;
+}
